@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UselessMachine</string>
+    <string name="self_destruct">SELF DESTRUCT</string>
 </resources>
